@@ -12,9 +12,9 @@
                 <button id="small" class="btn btn-control" style="right:168px;bottom:15px;padding:5.5px;" :class="{ 'disabled': autoCheck }" @click="overlap" :title="$t('info.overlapTips')"><input class="checkbox" type="checkbox" v-model="overlapCheck"><img src="/resources/over.svg" style="width: 25px;"></button>
                 <button id="small" class="btn btn-control" style="right:226px;bottom:15px;" :class="{ 'disabled': overlapCheck }" @click="autoPlay"><input class="checkbox" type="checkbox" v-model="autoCheck"><img src="/resources/auto.svg" style="width: 30px;"></button>
             </div>
-            <div class="title">{{$t("info.title")}}<img src="/resources/bg.png" style="width:40px;height:auto;margin-left:5px;margin-bottom: 3px;"></div>
+            <div class="title">{{$t("info.title")}}<img src="/resources/bg.png" style="width:40px;height:auto;margin-left:5px;margin-bottom: 7px;"></div>
                 <div class="cate-ctrldft">{{$t("action.live")}}
-                    <div v-for="(item) in youtubeData.vtubers" :key="item.ytChannelId"><button class="btn btn-ctrldft" v-if="item.ytChannelId === 'UCp-5t9SrOQwXMU7iIjQfARg'">{{$t('info.subscriber')}}{{item.subscriberCount}}</button></div>
+                    <div v-for="(item) in youtubeData.vtubers" :key="item.ytChannelId"><button class="btn btn-ctrldft" v-if="item.ytChannelId === 'UC7fk0CB07ly8oSl0aqKkqFg'">{{$t('info.subscriber')}}{{item.subscriberCount}}</button></div>
                     <div v-for="live in live_data" :key="live.startTime">
                         <div v-if="live.title.length">
                             <span v-if="live.type === 'upcoming'" style="font-size:17px;">{{$t("action.plan")}}{{ format_time(live.startTime) }}</span>
@@ -35,9 +35,8 @@
                         <button class="btn btn-ctrldft" @click="randomshare">{{$t("action.share")}}</button>
                 </div>
                 <div class="cate-ctrldft">{{$t("action.adtitle")}}
-                    <button class="btn btn-ctrldft" onclick="window.open('https://www.bilibili.com/read/readlist/rl210208')">{{$t("action.weekly")}}</button>
+                    <button class="btn btn-ctrldft" onclick="window.open('https://www.bilibili.com/read/readlist/rl218917')">{{$t("action.weekly")}}</button>
                     <button class="btn btn-ctrldft" onclick="window.open('https://vtbbtn.org')">{{$t("action.vtbbtn")}}</button>
-                    <button class="btn btn-ctrldft" onclick="window.open('https://sticker.ookamimio.org')">{{$t("action.sticker")}}</button>
                 </div>
             <div v-for="category in voices" v-bind:key="category.categoryName">
                 <div class="cate-header">{{ $t("voicecategory." + category.categoryName) }} 
@@ -57,8 +56,8 @@
     border-radius: 30px;
     font-weight: 900;
     text-align: left;
-    color: #fff;    
-    text-shadow:rgba(0, 0, 0, 0.308) 5px 6px 10px;
+    color: rgb(255, 121, 121);    
+    text-shadow:rgba(0, 0, 0, 0.308) 3px 2px 5px;
     font-size: 35px;
     padding-top: 10px;
     padding-bottom: 30px;
@@ -70,7 +69,7 @@
 .btn-control-main{
     position: fixed;
     z-index: 2;
-    background-color: #ff7b7bc2;/*背景颜色*/
+    background-color: #fd325ac2;/*背景颜色*/
     border: 0px; /*边框去除*/
     border-radius: 17px;/*边框圆角*/
     max-width: 100%;
@@ -85,13 +84,13 @@
     text-align: center;
 }
 .btn-control-main:hover,.btn-control:focus{
-    background-color:#ff7b7be5;    
+    background-color:#fd325ae5;    
 
 }
 .btn-control{
     z-index: 1;
     position: fixed;
-    background-color: #ff7b7bc2;/*背景颜色*/
+    background-color: #fd325ac2;/*背景颜色*/
     border: 0px; /*边框去除*/
     border-radius: 17px;/*边框圆角*/
     max-width: 100%;
@@ -108,16 +107,17 @@
     0%{right:15px;}
 }
 .btn-control:hover,.btn-control:focus{
-    background-color:#ff7b7be5
+    background-color:#fd325ae5
 }
 .btn-ctrldft{/*今日随机按钮*/
-    background-image: linear-gradient(to bottom right,rgb(255, 184, 184),rgb(255, 156, 156)) ;
+    background-color: #ff476c;
     border: 0px; /*边框去除*/
     border-radius: 17px;/*边框圆角*/
     padding-top: 3px;
-    box-shadow: 0 8px 16px 0px rgba(184, 88, 88, 0.26);
+    box-shadow: 0 2px 4px 1px rgba(184, 88, 88, 0.26);
     text-align: center;
     font-weight: 600;
+    color:#fff;
     padding-bottom: 3px;
     margin-left: 5px;
     transition-property: all;
@@ -128,22 +128,22 @@
     white-space: normal !important;
 }
 .btn-ctrldft:active,.btn-ctrldft:focus{/*宣传中心按钮选定*/
-    background-image: linear-gradient(to top left,rgb(255, 184, 184),rgb(255, 156, 156)) ;
+    background-color: #da2d50;
     color: rgb(255, 228, 228);
 }
 .btn-ctrldft:hover{
     box-shadow: 0 0 5px 5px rgba(255, 255, 255, 0.397);
 }
 .cate-header{/*分类标题*/
-    background-image: linear-gradient(to bottom right,rgb(78, 78, 78),rgb(58, 58, 58)) ;
-    box-shadow: 0 10px 10px 0px rgba(0, 0, 0, 0.151);
+    background-color: #fff9f9;
+    text-shadow: rgba(187, 187, 187, 0.281) 3px 2px 5px;
     border-radius: 30px;
     text-align: left;
-    text-shadow:rgba(0, 0, 0, 0.2) 5px 6px 10px;
+    box-shadow: 0 2px 4px 1px rgba(0, 0, 0,0.1);
     transition-property: all;
     transition-duration: 300ms;
     font-weight: 600;
-    color: #fff;
+    color: rgb(68, 68, 68);
     padding-top: 18px;
     padding-left: 20px;
     font-size: 20px;
@@ -151,7 +151,7 @@
     margin-bottom: 12px;
 }
 .cate-header:hover{
-    box-shadow: 0 10px 10px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 6px 6px 0px rgba(0, 0, 0, 0.1);
 }
 .btn-body-status{/*播放状态分类标题*/
     background-color: #585858d8;
@@ -168,12 +168,12 @@
     font-weight: 600;
 }
 .cate-ctrldft{/*控制中心分类标题*/
-    background-image: linear-gradient(to bottom right,rgb(255, 153, 153),rgb(255, 125, 125));
+    background-color: #ff9595;
     border-radius: 30px;
     text-align: left;
-    text-shadow: rgba(184, 88, 88, 0.281) 5px 6px 10px;
-    box-shadow: 0 10px 10px 0px rgba(0, 0, 0, 0.151);
-    color: #fff;
+    text-shadow: rgba(184, 88, 88, 0.281) 3px 2px 5px;
+    box-shadow: 0 2px 4px 1px rgba(0, 0, 0,0.1);
+    color: rgb(255, 255, 255);
     transition-property: all;
     transition-duration: 300ms;
     font-size: 20px;
@@ -186,7 +186,7 @@
     max-width: max-content;
 }
 .cate-ctrldft:hover{
-    box-shadow: 0 10px 10px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 6px 6px 0px rgba(0, 0, 0, 0.1);
 }
 .cate-body{
     margin-top: 12px;
@@ -202,8 +202,8 @@
 }
 .btn-new {
     color: #fff;
-    background-image: linear-gradient(to bottom right,rgba(255, 120, 120, 0.836),rgba(255, 71, 71, 0.836));
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background-color: #fd325a;
+    box-shadow: 0 2px 4px 1px rgba(0,0,0,0.2);
     border-radius: 15px;
     border: 0px;
     max-width: 100%;
@@ -216,7 +216,7 @@
 }
 .btn-new:active,.btn-new:focus{
     color: rgb(255, 204, 204);
-    background-image: linear-gradient(to top left,rgba(255, 120, 120, 0.836),rgba(255, 71, 71, 0.836));
+    background-color: #da2d50;
 }
 .btn-new:hover{
    box-shadow: 0px 0px 5px 5px rgba(252, 120, 120, 0.322);
@@ -270,7 +270,7 @@ class HomePage extends Vue {
         .then(response => { 
             let fetched = response.data;
             let mio_lives = [];
-            const channel_id = 'UCp-5t9SrOQwXMU7iIjQfARg';
+            const channel_id = 'UC7fk0CB07ly8oSl0aqKkqFg';
             fetched.live.forEach(function(item){
                 if (item.channel === channel_id){
                     item.type = 'live';
@@ -327,9 +327,9 @@ class HomePage extends Vue {
         var title=this.$t("voice."+ tempList.voiceList[this._randomNum(0, tempList.voiceList.length - 1)].name);
         var res=document.getElementById('share').value;
         if(this.$i18n.locale === 'ja-JP'){
-            window.open("https://twitter.com/intent/tweet?text="+"%23ミオボタン %23ミオかわいい 今日、「"+res+"」のランダムオーディオは「"+title+"」です！ より多くのオーディオを聞くには、「ミオボタン」のWebサイトにアクセスしてください~ https://t.co/TLdj8E9Rct");
+            window.open("https://twitter.com/intent/tweet?text="+"%23あやめボタン %23百鬼絵巻 今日、「"+res+"」のランダムオーディオは「"+title+"」です！ より多くのオーディオを聞くには、「あやめボタン」のWebサイトにアクセスしてください~ https://ayamesuki.org");
         } else {
-            window.open("https://twitter.com/intent/tweet?text="+"%23ミオボタン %23ミオかわいい 今天，“"+res+"”的随机音频是“"+title+"”！ 访问狼按钮网站聆听更多音频 https://t.co/TLdj8E9Rct");
+            window.open("https://twitter.com/intent/tweet?text="+"%23あやめボタン %23百鬼絵巻 今天，“"+res+"”的随机音频是“"+title+"”！ 访问余按钮网站聆听更多音频 https://ayamesuki.org");
         }
     }
     autoPlay(){

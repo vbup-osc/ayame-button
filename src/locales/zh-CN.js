@@ -1,8 +1,8 @@
 const zh_CN = {
     info: {
-        title: "狼按钮",
+        title: "余按钮",
         info: "信息",
-        author: "狼按钮团队 2020",
+        author: "余按钮团队 × 幽世鬼神的居酒屋 2020",
         null: "空",
         subscriber: "当前Youtube订阅数为：",
         audioStaff: "鸣谢名单以及网站相关",
@@ -26,8 +26,7 @@ const zh_CN = {
         playing: "正在播放：",
         noplay: "",
         adtitle: "● 联动项目",
-        weekly: "澪雀之森的神社周报",
-        sticker: "狼贴图",
+        weekly: "幽世鬼神的居酒屋周报",
         plan: "计划日期",
         ing: "正在直播"
     },

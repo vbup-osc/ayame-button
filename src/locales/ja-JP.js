@@ -1,10 +1,10 @@
 const ja_JP = {
     info: {
-        title: "ミオボタン",
+        title: "あやめボタン",
         info: "通知",
         null: "空",
         subscriber: "現在までのチャンネル登録者人数:",
-        author: "ミオボタンチーム 2020",
+        author: "あやめボタンチーム × 幽世鬼神の居酒屋 2020",
         audioStaff: "感謝リストとウェブサイト情報",
         toGithub: "Githubに関する貴重なフィードバックを提供してください",
         notOfficial: "このサイトはファンの作品であり、公式とは関係ありません。アップロードした音声ファイルがあなたの権利を侵害している場合は、すぐに削除するように私たちに通知してください:samuimomijiyuki@qq.com",
@@ -27,7 +27,6 @@ const ja_JP = {
         vtbbtn: "VTuberの音声ボタンコレクション",
         adtitle: "● コラボレーションプロジェクト",
         weekly: "非公式翻訳と二次創作団体の週刊（中国語）",
-        sticker: "ミオのステッカー",
         plan: "予定の期日",
         ing: "ライブ配信中"
     },
