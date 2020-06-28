@@ -24,10 +24,10 @@ jobs:
       working-directory: dist
       run: |
         git config --global user.email "samuimomijiyuki@qq.com"
-        git config --global user.name "VoiceButtonUnitedStudio"
-        git remote set-url origin https://github.com/VoiceButtonUnitedStudio/AyameButtonDepot.git
+        git config --global user.name "MioButton"
+        git remote set-url origin https://github.com/MioButton/AyameButtonDepot.git
         git init
         git add --all
         git commit -m "Deploy from GitHub: $GITHUB_SHA"
-        git push -u --force https://${{ secrets.USERNAME }}:${{ secrets.PASSWORD }}@github.com/VoiceButtonUnitedStudio/AyameButtonDepot.git master:master
+        git push -u --force https://${{ secrets.USERNAME }}:${{ secrets.PASSWORD }}@github.com/MioButton/AyameButtonDepot.git master:master
     
