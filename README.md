@@ -1,6 +1,6 @@
 # 余按钮/あやめボタン/Ayame Button
 
-Ayame Button [http://ayamesuki.org](https://ayamesuki.org)
+Ayame Button [http://nakiriayame.moe](https://nakiriayame.moe)
 
 ![AYAME-BTN-CI/CD](https://github.com/MioButton/AYAMEButton/workflows/AYAME-BTN-CI/CD/badge.svg)
 

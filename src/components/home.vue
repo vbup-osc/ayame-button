@@ -327,9 +327,9 @@ class HomePage extends Vue {
         var title=this.$t("voice."+ tempList.voiceList[this._randomNum(0, tempList.voiceList.length - 1)].name);
         var res=document.getElementById('share').value;
         if(this.$i18n.locale === 'ja-JP'){
-            window.open("https://twitter.com/intent/tweet?text="+"%23あやめボタン %23百鬼絵巻 今日、「"+res+"」のランダムオーディオは「"+title+"」です！ より多くのオーディオを聞くには、「あやめボタン」のWebサイトにアクセスしてください~ https://ayamesuki.org");
+            window.open("https://twitter.com/intent/tweet?text="+"%23あやめボタン %23百鬼絵巻 今日、「"+res+"」のランダムオーディオは「"+title+"」です！ より多くのオーディオを聞くには、「あやめボタン」のWebサイトにアクセスしてください~ https://nakiriayame.moe");
         } else {
-            window.open("https://twitter.com/intent/tweet?text="+"%23あやめボタン %23百鬼絵巻 今天，“"+res+"”的随机音频是“"+title+"”！ 访问余按钮网站聆听更多音频 https://ayamesuki.org");
+            window.open("https://twitter.com/intent/tweet?text="+"%23あやめボタン %23百鬼絵巻 今天，“"+res+"”的随机音频是“"+title+"”！ 访问余按钮网站聆听更多音频 https://nakiriayame.moe");
         }
     }
     autoPlay(){
