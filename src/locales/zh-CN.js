@@ -1,6 +1,6 @@
 const zh_CN = {
     info: {
-        title: "余按钮团队",
+        title: "余按钮",
         info: "信息",
         author: "余按钮团队 × 幽世鬼神的居酒屋 2020",
         null: "空",
