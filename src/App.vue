@@ -14,9 +14,9 @@
                 
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
                     <ul class="nav navbar-nav" style="margin-bottom:0px;">
-                        <li><a href="https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg" target="_blank" style="margin-top:2px"><img src="resources/youtube_social_icon_red.png" height="20"/></a></li>
-                        <li><a href="https://twitter.com/ookamimio" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="27"/></a></li>
-                        <li><a href="https://space.bilibili.com/389862071" target="_blank"><img src="resources/bilibili.png" height="27"/></a></li>
+                        <li><a href="https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg?sub_confirmation=1" target="_blank" style="margin-top:2px"><img src="resources/youtube_social_icon_red.png" height="20"/></a></li>
+                        <li><a href="https://twitter.com/nakiriayame" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="27"/></a></li>
+                        <li><a href="https://space.bilibili.com/389858027" target="_blank"><img src="resources/bilibili.png" height="27"/></a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right" style="margin-top:0px;margin-bottom:0px">
                         <li class="dropdown">
