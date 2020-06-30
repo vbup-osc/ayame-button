@@ -44,12 +44,12 @@
         </div>
         <footer class="footer">
             <div class="container-fluid footer-content">
-                <button class="btn-buttom btn-buttom-info"><a href="javascript:location.reload();" style="color: #eeeeee;text-decoration: none">AYAME 1.0.1 BETA</a></button>
+                <button class="btn-buttom btn-buttom-info"><a href="javascript:location.reload();" style="color: #eeeeee;text-decoration: none">犬 1.0.1</a></button>
                 <div class="pull-left">
                     <div class="text-left" style="color: #fd325a;">{{$t("info.author")}}</div>
                     <div class="text-left">{{$t("info.notOfficial")}}</div>
-                    <div class="text-left"><a href="https://miobutton.github.io/AyameButton/" target="_blank">{{$t("info.audioStaff")}}</a></div>
-                    <div class="text-left"><a href="https://github.com/MioButton/AyameButton" target="_blank">{{$t("info.toGithub")}}</a></div>
+                    <div class="text-left"><a href="https://miobutton.github.io/AyameButto" target="_blank">{{$t("info.audioStaff")}}</a></div>
+                    <div class="text-left"><a href="https://github.com/VoiceButtonUnitedProject/AyameButton/n/" target="_blank">{{$t("info.toGithub")}}</a></div>
                 </div>
             </div>
         </footer>
