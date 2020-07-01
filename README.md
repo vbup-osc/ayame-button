@@ -2,7 +2,6 @@
 
 Ayame Button [http://nakiriayame.moe](https://nakiriayame.moe)
 
-![AYAME-BTN-CI/CD](https://github.com/MioButton/AYAMEButton/workflows/AYAME-BTN-CI/CD/badge.svg)
 
 相关链接/関連URL/Related Links:
 
