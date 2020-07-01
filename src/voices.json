@@ -30,14 +30,6 @@
             "zh-CN": "发动机",
             "ja-JP": "エンジン"
           }
-        },
-        {
-          "name": "a-4",
-          "path": "a-4.mp3",
-          "description": {
-            "zh-CN": "夸！决斗吧！",
-            "ja-JP": "湊！勝負だ！"
-          }
         }
 
       ]
@@ -101,7 +93,16 @@
         "zh-CN": "否定",
         "ja-JP": "否定"
       },
-      "voiceList": []
+      "voiceList": [
+        {
+          "name": "余お金わない",
+          "path": "余没钱呐.mp3",
+          "description": {
+            "zh-CN": "没钱呐",
+            "ja-JP": "お金わない"
+          }
+        }
+      ]
     },
     {
       "categoryName": "other",
@@ -117,7 +118,16 @@
         "zh-CN": "名言",
         "ja-JP": "名言"
       },
-      "voiceList": []
+      "voiceList": [
+        {
+          "name": "a-4",
+          "path": "a-4.mp3",
+          "description": {
+            "zh-CN": "夸！决斗吧！",
+            "ja-JP": "湊！勝負だ！"
+          }
+        }
+      ]
     },
     {
       "categoryName": "sing",
