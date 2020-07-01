@@ -4,7 +4,8 @@
       "categoryName": "actmoe",
       "categoryDescription": {
         "zh-CN": "萌",
-        "ja-JP": "もえ"
+        "ja-JP": "もえ",
+        "english": ""
       },
       "voiceList": [
         {
@@ -12,7 +13,8 @@
           "path": "a-1.mp3",
           "description": {
             "zh-CN": "狗狗喘气",
-            "ja-JP": "息をする"
+            "ja-JP": "息をする",
+            "english": ""
           }
         },
         {
@@ -20,7 +22,8 @@
           "path": "a-2.mp3",
           "description": {
             "zh-CN": "光速道歉*6",
-            "ja-JP": "ごめん*6"
+            "ja-JP": "ごめん*6",
+            "english": ""
           }
         },
         {
@@ -28,7 +31,8 @@
           "path": "a-3.mp3",
           "description": {
             "zh-CN": "发动机",
-            "ja-JP": "エンジン"
+            "ja-JP": "エンジン",
+            "english": ""
           }
         }
 
@@ -38,7 +42,8 @@
       "categoryName": "common",
       "categoryDescription": {
         "zh-CN": "通用",
-        "ja-JP": "通常"
+        "ja-JP": "通常",
+        "english": ""
       },
       "voiceList": [
 
@@ -48,7 +53,8 @@
       "categoryName": "greeting",
       "categoryDescription": {
         "zh-CN": "打招呼",
-        "ja-JP": "挨拶"
+        "ja-JP": "挨拶",
+        "english": ""
       },
       "voiceList": []
     },
@@ -56,7 +62,8 @@
       "categoryName": "modal",
       "categoryDescription": {
         "zh-CN": "语气",
-        "ja-JP": "モーダル"
+        "ja-JP": "モーダル",
+        "english": ""
       },
       "voiceList": [
 
@@ -66,7 +73,8 @@
       "categoryName": "nakigoe",
       "categoryDescription": {
         "zh-CN": "叫声",
-        "ja-JP": "鳴き声"
+        "ja-JP": "鳴き声",
+        "english": ""
       },
       "voiceList": [
         {
@@ -74,7 +82,8 @@
           "path": "a-5.mp3",
           "description": {
             "zh-CN": "笑",
-            "ja-JP": "笑"
+            "ja-JP": "笑",
+            "english": ""
           }
         },
         {
