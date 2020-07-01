@@ -3,8 +3,8 @@
     {
       "categoryName": "actmoe",
       "categoryDescription": {
-        "zh-CN": "萌",
-        "ja-JP": "もえ"
+        "zh-CN": "▌萌",
+        "ja-JP": "▌もえ"
       },
       "voiceList": [
         {
@@ -35,38 +35,10 @@
       ]
     },
     {
-      "categoryName": "common",
-      "categoryDescription": {
-        "zh-CN": "通用",
-        "ja-JP": "通常"
-      },
-      "voiceList": [
-
-      ]
-    },
-    {
-      "categoryName": "greeting",
-      "categoryDescription": {
-        "zh-CN": "打招呼",
-        "ja-JP": "挨拶"
-      },
-      "voiceList": []
-    },
-    {
-      "categoryName": "modal",
-      "categoryDescription": {
-        "zh-CN": "语气",
-        "ja-JP": "モーダル"
-      },
-      "voiceList": [
-
-      ]
-    },
-    {
       "categoryName": "nakigoe",
       "categoryDescription": {
-        "zh-CN": "叫声",
-        "ja-JP": "鳴き声"
+        "zh-CN": "▌叫声",
+        "ja-JP": "▌鳴き声"
       },
       "voiceList": [
         {
@@ -90,13 +62,13 @@
     {
       "categoryName": "negation",
       "categoryDescription": {
-        "zh-CN": "否定",
-        "ja-JP": "否定"
+        "zh-CN": "▌否定",
+        "ja-JP": "▌否定"
       },
       "voiceList": [
         {
-          "name": "余お金わない",
-          "path": "余没钱呐.mp3",
+          "name": "a-7",
+          "path": "a-7.mp3",
           "description": {
             "zh-CN": "没钱呐",
             "ja-JP": "お金わない"
@@ -105,18 +77,10 @@
       ]
     },
     {
-      "categoryName": "other",
-      "categoryDescription": {
-        "zh-CN": "其他",
-        "ja-JP": "その他"
-      },
-      "voiceList": []
-    },
-    {
       "categoryName": "saying",
       "categoryDescription": {
-        "zh-CN": "名言",
-        "ja-JP": "名言"
+        "zh-CN": "▌名言",
+        "ja-JP": "▌名言"
       },
       "voiceList": [
         {
@@ -128,14 +92,6 @@
           }
         }
       ]
-    },
-    {
-      "categoryName": "sing",
-      "categoryDescription": {
-        "zh-CN": "唱歌",
-        "ja-JP": "うた"
-      },
-      "voiceList": []
     }
   ]
 }
