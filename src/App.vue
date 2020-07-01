@@ -22,7 +22,7 @@
                         <li class="dropdown">
                             <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="resources/download.svg" height="23"/></a>
                             <ul class="dropdown-menu">
-                                <li style="width: 63px;"><a href="https://nakiriayame.moe/resources/apple.mobileconfig" download="android.apk" target="_blank" style="padding-left:18px"><img src="resources/Android.png" height="27"/></a></li>
+                                <li style="width: 63px;"><a href="https://nakiriayame.moe/resources/android.apk" download="android.apk" target="_blank" style="padding-left:18px"><img src="resources/Android.png" height="27"/></a></li>
                                 <li style="width: 63px;"><a href="https://nakiriayame.moe/resources/apple.mobileconfig" download="apple.mobileconfig" target="_blank" style="padding-left:18px"><img src="resources/Apple.png" height="27"/></a></li>
                             </ul>
                         </li>
