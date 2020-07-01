@@ -18,15 +18,6 @@
                         <li><a href="https://twitter.com/nakiriayame" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="27"/></a></li>
                         <li><a href="https://space.bilibili.com/389858027" target="_blank"><img src="resources/bilibili.png" height="27"/></a></li>
                     </ul>
-                    <ul class="nav navbar-nav navbar-right" style="margin-top:0px;margin-bottom:0px">
-                        <li class="dropdown">
-                            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="resources/download.svg" height="23"/></a>
-                            <ul class="dropdown-menu">
-                                <li style="width: 63px;"><a href="https://www.lanzous.com/ib3yeob" target="_blank" style="padding-left:18px"><img src="resources/Android.png" height="27"/></a></li>
-                                <li style="width: 63px;"><a href="https://nakiriayame.moe/resources/apple.mobileconfig" download="apple.mobileconfig" target="_blank" style="padding-left:18px"><img src="resources/Apple.png" height="27"/></a></li>
-                            </ul>
-                        </li>
-                    </ul>
                     <ul class="nav navbar-nav navbar-right" style="margin-top:0px;">
                         <li class="dropdown">
                             <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="resources/lang.svg" height="23"/></a>
@@ -44,7 +35,7 @@
         </div>
         <footer class="footer">
             <div class="container-fluid footer-content">
-                <button class="btn-buttom btn-buttom-info"><a href="javascript:location.reload();" style="color: #eeeeee;text-decoration: none">犬 1.0.1</a></button>
+                <button class="btn-buttom btn-buttom-info"><a href="javascript:location.reload();" style="color: #eeeeee;text-decoration: none">犬 1.0.2</a></button>
                 <div class="pull-left">
                     <div class="text-left" style="color: #fd325a;">{{$t("info.author")}}</div>
                     <div class="text-left">{{$t("info.notOfficial")}}</div>
