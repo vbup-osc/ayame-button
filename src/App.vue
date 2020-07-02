@@ -48,8 +48,8 @@
                 <div class="pull-left">
                     <div class="text-left" style="color: #fd325a;">{{$t("info.author")}}</div>
                     <div class="text-left">{{$t("info.notOfficial")}}</div>
-                    <div class="text-left"><a href="https://miobutton.github.io/AyameButton/" target="_blank">{{$t("info.audioStaff")}}</a></div>
-                    <div class="text-left"><a href="https://github.com/MioButton/AyameButton" target="_blank">{{$t("info.toGithub")}}</a></div>
+                    <div class="text-left"><a href="https://voicebuttonunitedproject.github.io/AyameButton/" target="_blank">{{$t("info.audioStaff")}}</a></div>
+                    <div class="text-left"><a href="https://github.com/VoiceButtonUnitedProject/AyameButton" target="_blank">{{$t("info.toGithub")}}</a></div>
                 </div>
             </div>
         </footer>
