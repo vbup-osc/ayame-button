@@ -109,6 +109,15 @@
             "ja-JP": "",
             "en-US": ""
           }
+        },
+        {
+          "name": "a-18",
+          "path": "a-18.aac",
+          "description": {
+            "zh-CN": "噢耶",
+            "ja-JP": "",
+            "en-US": ""
+          }
         }
       ]
     },
@@ -135,6 +144,33 @@
           "description": {
             "zh-CN": "banana",
             "ja-JP": "banana",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "a-15",
+          "path": "a-15.aac",
+          "description": {
+            "zh-CN": "嗯↑↓ 嗯→↓",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "a-16",
+          "path": "a-16.aac",
+          "description": {
+            "zh-CN": "啊 吓死我了 啊哈哈哈  哈哈",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "a-17",
+          "path": "a-17.aac",
+          "description": {
+            "zh-CN": "啊 桥豆麻袋 纳尼 纳尼",
+            "ja-JP": "",
             "en-US": ""
           }
         }
