@@ -6,6 +6,7 @@ import App from './App.vue'
 
 import zh_CN from './locales/zh-CN'
 import ja_JP from './locales/ja-JP'
+import en_US from './locales/en-US'
 
 import $ from 'jquery'
 global.jQuery = global.$ = $;
@@ -30,7 +31,7 @@ for (let voiceCategoryList of VoiceList.voices){
       addja_JP.voicecategory[voiceCategoryList.categoryName] = voiceCategoryList.categoryDescription['ja-JP'];
     }
     else if(voiceCategoryList.categoryDescription['en-US'] !== undefined){
-      addja_JP.voicecategory[voiceCategoryList.categoryName] = voiceCategoryList.categoryDescription['en-US'];
+      adden_US.voicecategory[voiceCategoryList.categoryName] = voiceCategoryList.categoryDescription['en-US'];
     }
   }
   for (let voiceItem of voiceCategoryList.voiceList){
@@ -42,7 +43,7 @@ for (let voiceCategoryList of VoiceList.voices){
         addja_JP.voice[voiceItem.name] = voiceItem.description['ja-JP'];
       }
       else if(voiceItem.description['en-US'] !== undefined){
-        addja_JP.voice[voiceItem.name] = voiceItem.description['en-US'];
+        adden_US.voice[voiceItem.name] = voiceItem.description['en-US'];
       }
     }
   }
@@ -50,7 +51,7 @@ for (let voiceCategoryList of VoiceList.voices){
 
 let emzh_CN = Object.assign(zh_CN, addZh_CN);
 let emja_JP = Object.assign(ja_JP, addja_JP);
-let emen_US = Object.assign(ja_JP, adden_US);
+let emen_US = Object.assign(en_US, adden_US);
 
 Vue.config.productionTip = false
 

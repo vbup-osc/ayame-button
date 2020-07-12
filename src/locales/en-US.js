@@ -1,6 +1,6 @@
 const en_US = {
     info: {
-        title: "Nakiri Ayame Button",
+        title: "Ayame Button",
         info: "Notification",
         null: "Null",
         subscriber: "Current channel follower :",
