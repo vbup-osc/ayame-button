@@ -6,7 +6,6 @@ import App from './App.vue'
 
 import zh_CN from './locales/zh-CN'
 import ja_JP from './locales/ja-JP'
-import en_US from './locales/en-US'
 
 import $ from 'jquery'
 global.jQuery = global.$ = $;
@@ -20,18 +19,14 @@ import VoiceList from './voices.json'
 //提取标签到语言文件
 let addZh_CN = { voice: {}, voicecategory: {} };
 let addja_JP = { voice: {}, voicecategory: {} };
-let adden_US = { voice: {}, voicecategory: {} };
 
 for (let voiceCategoryList of VoiceList.voices){
   if(voiceCategoryList.categoryDescription !== undefined){
     if(voiceCategoryList.categoryDescription['zh-CN'] !== undefined){
       addZh_CN.voicecategory[voiceCategoryList.categoryName] = voiceCategoryList.categoryDescription['zh-CN'];
     }
-    else if(voiceCategoryList.categoryDescription['ja-JP'] !== undefined){
+    if(voiceCategoryList.categoryDescription['ja-JP'] !== undefined){
       addja_JP.voicecategory[voiceCategoryList.categoryName] = voiceCategoryList.categoryDescription['ja-JP'];
-    }
-    else if(voiceCategoryList.categoryDescription['en-US'] !== undefined){
-      adden_US.voicecategory[voiceCategoryList.categoryName] = voiceCategoryList.categoryDescription['en-US'];
     }
   }
   for (let voiceItem of voiceCategoryList.voiceList){
@@ -39,11 +34,8 @@ for (let voiceCategoryList of VoiceList.voices){
       if(voiceItem.description['zh-CN'] !== undefined){
         addZh_CN.voice[voiceItem.name] = voiceItem.description['zh-CN'];
       }
-      else if(voiceItem.description['ja-JP'] !== undefined){
+      if(voiceItem.description['ja-JP'] !== undefined){
         addja_JP.voice[voiceItem.name] = voiceItem.description['ja-JP'];
-      }
-      else if(voiceItem.description['en-US'] !== undefined){
-        adden_US.voice[voiceItem.name] = voiceItem.description['en-US'];
       }
     }
   }
@@ -51,7 +43,6 @@ for (let voiceCategoryList of VoiceList.voices){
 
 let emzh_CN = Object.assign(zh_CN, addZh_CN);
 let emja_JP = Object.assign(ja_JP, addja_JP);
-let emen_US = Object.assign(en_US, adden_US);
 
 Vue.config.productionTip = false
 
@@ -60,8 +51,7 @@ Vue.use(GlobalConst);
 
 const messages = {
   'zh-CN': emzh_CN,
-  'ja-JP': emja_JP,
-  'en-US': emen_US,
+  'ja-JP': emja_JP
 }
 
 let locale = 'zh-CN';
