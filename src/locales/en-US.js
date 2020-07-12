@@ -1,9 +1,9 @@
-const ja_JP = {
+const en_US = {
     info: {
-        title: "あやめボタン",
-        info: "通知",
-        null: "空",
-        subscriber: "現在までのチャンネル登録者人数:",
+        title: "Nakiri Ayame Button",
+        info: "Notification",
+        null: "Null",
+        subscriber: "Current channel follower :",
         author: "あやめボタンチーム × 幽世鬼神の居酒屋 2020",
         audioStaff: "感謝リストとウェブサイト情報",
         toGithub: "Githubに関する貴重なフィードバックを提供してください",
@@ -17,18 +17,18 @@ const ja_JP = {
         placeholder: "すきな呼び方を入力下さい",
         close: "閉じる",
         live: "● 情報パネル",
-        copy: "コピー",
-        stopvoice: "停止",
-        randomplay: "ランダム",
+        copy: "Copy",
+        stopvoice: "Stop",
+        randomplay: "Random",
         overlap: "声重なる可能",
         autoplay: "自動放送",
-        playing: "現在再生：",
+        playing: "Playing：",
         noplay: "",
         vtbbtn: "VTuberの音声ボタンコレクション",
         adtitle: "● コラボレーションプロジェクト",
         weekly: "非公式翻訳と二次創作団体の週刊（中国語）",
         plan: "予定の期日",
-        ing: "ライブ配信中"
+        ing: "Live"
     },
     lang: {
         'zh-CN': "简体中文",
@@ -36,4 +36,4 @@ const ja_JP = {
         "en-US": "English"
     }
 }
-export default ja_JP;
+export default en_US;

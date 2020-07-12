@@ -32,7 +32,8 @@ const zh_CN = {
     },
     lang: {
         'zh-CN': "简体中文",
-        'ja-JP': "日本語"
+        'ja-JP': "日本語",
+        "en-US": "English"
     }
 }
 export default zh_CN;

@@ -19,14 +19,18 @@ import VoiceList from './voices.json'
 //提取标签到语言文件
 let addZh_CN = { voice: {}, voicecategory: {} };
 let addja_JP = { voice: {}, voicecategory: {} };
+let adden_US = { voice: {}, voicecategory: {} };
 
 for (let voiceCategoryList of VoiceList.voices){
   if(voiceCategoryList.categoryDescription !== undefined){
     if(voiceCategoryList.categoryDescription['zh-CN'] !== undefined){
       addZh_CN.voicecategory[voiceCategoryList.categoryName] = voiceCategoryList.categoryDescription['zh-CN'];
     }
-    if(voiceCategoryList.categoryDescription['ja-JP'] !== undefined){
+    else if(voiceCategoryList.categoryDescription['ja-JP'] !== undefined){
       addja_JP.voicecategory[voiceCategoryList.categoryName] = voiceCategoryList.categoryDescription['ja-JP'];
+    }
+    else if(voiceCategoryList.categoryDescription['en-US'] !== undefined){
+      addja_JP.voicecategory[voiceCategoryList.categoryName] = voiceCategoryList.categoryDescription['en-US'];
     }
   }
   for (let voiceItem of voiceCategoryList.voiceList){
@@ -34,8 +38,11 @@ for (let voiceCategoryList of VoiceList.voices){
       if(voiceItem.description['zh-CN'] !== undefined){
         addZh_CN.voice[voiceItem.name] = voiceItem.description['zh-CN'];
       }
-      if(voiceItem.description['ja-JP'] !== undefined){
+      else if(voiceItem.description['ja-JP'] !== undefined){
         addja_JP.voice[voiceItem.name] = voiceItem.description['ja-JP'];
+      }
+      else if(voiceItem.description['en-US'] !== undefined){
+        addja_JP.voice[voiceItem.name] = voiceItem.description['en-US'];
       }
     }
   }
@@ -43,6 +50,7 @@ for (let voiceCategoryList of VoiceList.voices){
 
 let emzh_CN = Object.assign(zh_CN, addZh_CN);
 let emja_JP = Object.assign(ja_JP, addja_JP);
+let emen_US = Object.assign(ja_JP, adden_US);
 
 Vue.config.productionTip = false
 
@@ -51,7 +59,8 @@ Vue.use(GlobalConst);
 
 const messages = {
   'zh-CN': emzh_CN,
-  'ja-JP': emja_JP
+  'ja-JP': emja_JP,
+  'en-US': emen_US,
 }
 
 let locale = 'zh-CN';

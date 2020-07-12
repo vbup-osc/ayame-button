@@ -1,4 +1,4 @@
-name: MIO-BTN-CI/CD
+name: Ayame-BTN-CI/CD
 
 on: 
   push:
