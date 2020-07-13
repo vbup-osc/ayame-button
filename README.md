@@ -9,15 +9,17 @@ Ayame Button [http://nakiriayame.moe](https://nakiriayame.moe)
 
 * [Nakiri Ayame's Twitter](https://twitter.com/nakiriayame?s=09)
 
-## 特别鸣谢/特別な感謝/Special Thanks(Bilibili/Twitter ID)
+## 特别鸣谢/特別な感謝/Special Thanks(Bilibili/Github)
 
-音频剪辑/オーディオクリップ担当: 
+音频剪辑/オーディオクリップ担当: 幽世鬼神的居酒屋
 
-翻译/翻訳担当：
+翻译/翻訳担当：幽世鬼神的居酒屋 & cololi
 
-素材建议/リソース提案者：
+素材建议/リソース提案者：幽世鬼神的居酒屋
 
-This project is supported by MeowSound Idols.
+开发者/開発者: cololi & 寒いもみじ雪
+
+This project is supported by Voice Button United Studio.
 
 This project was greatly helped by [jetri.co](https://twitter.com/dragonjetmkii?s=09) 
 
