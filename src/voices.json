@@ -13,7 +13,7 @@
           "path": "a-8.aac",
           "description": {
             "zh-CN": "汪！",
-            "ja-JP": "",
+            "ja-JP": "ワン",
             "en-US": ""
           }
         },
@@ -41,7 +41,7 @@
           "description": {
             "zh-CN": "什……等……什……等等……什么什么（鬼叫）",
             "ja-JP": "なん...ちょ...なん...ちょ...なになに？",
-            "en-US": ""
+            "en-US": "what...wait...what...what???"
           }
         },
         {
@@ -59,7 +59,7 @@
           "description": {
             "zh-CN": "发动机",
             "ja-JP": "エンジン",
-            "en-US": ""
+            "en-US": "Engine"
           }
         }
 
@@ -70,7 +70,7 @@
       "categoryDescription": {
         "zh-CN": "通用",
         "ja-JP": "通常",
-        "en-US": ""
+        "en-US": "Common"
       },
       "voiceList": [
         {
@@ -79,7 +79,7 @@
           "description": {
             "zh-CN": "余祝生贺",
             "ja-JP": "お誕生日おめでとうーー",
-            "en-US": ""
+            "en-US": "Happy birthday--!"
           }
         }
       ]
@@ -134,8 +134,8 @@
           "path": "a-6.aac",
           "description": {
             "zh-CN": "banana",
-            "ja-JP": "banana",
-            "en-US": ""
+            "ja-JP": "バナナ",
+            "en-US": "Banana"
           }
         },
         {
@@ -152,8 +152,8 @@
           "path": "a-16.aac",
           "description": {
             "zh-CN": "啊 吓死我了 啊哈哈哈  哈哈",
-            "ja-JP": "",
-            "en-US": ""
+            "ja-JP": "あ　",
+            "en-US": "a "
           }
         },
         {
@@ -162,7 +162,7 @@
           "description": {
             "zh-CN": "啊 桥豆麻袋 纳尼 纳尼",
             "ja-JP": "あ、ちょどまて、なに？なに？あぁ、なに？",
-            "en-US": ""
+            "en-US": "a wait what what"
           }
         }
       ]
@@ -179,7 +179,8 @@
           "path": "a-13.aac",
           "description": {
             "zh-CN": "没钱呐",
-            "ja-JP": "余お金わない"
+            "ja-JP": "余お金わない",
+            "en-US": ""
           }
         }
       ]
@@ -188,7 +189,8 @@
       "categoryName": "saying",
       "categoryDescription": {
         "zh-CN": "名言",
-        "ja-JP": "名言"
+        "ja-JP": "名言",
+        "en-US": ""
       },
       "voiceList": [
         {
@@ -196,7 +198,8 @@
           "path": "a-4.aac",
           "description": {
             "zh-CN": "夸！决斗吧！",
-            "ja-JP": "湊！勝負だ！"
+            "ja-JP": "湊！勝負だ！",
+            "en-US": ""
           }
         },
         {
@@ -204,7 +207,8 @@
           "path": "a-7.aac",
           "description": {
             "zh-CN": "！",
-            "ja-JP": "！"
+            "ja-JP": "！",
+            "en-US": ""
           }
         },
         {
@@ -212,7 +216,8 @@
           "path": "a-11.aac",
           "description": {
             "zh-CN": "これわなきりから",
-            "ja-JP": "これわなきりから"
+            "ja-JP": "これわなきりから",
+            "en-US": ""
           }
         }
       ]
