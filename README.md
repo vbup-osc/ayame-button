@@ -17,7 +17,7 @@ Ayame Button [http://nakiriayame.moe](https://nakiriayame.moe)
 
 素材建议/リソース提案者：
 
-This project is supported by MeowSound Idols.
+This project is supported by Voice Button United Studio.
 
 This project was greatly helped by [jetri.co](https://twitter.com/dragonjetmkii?s=09) 
 
