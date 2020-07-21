@@ -11,11 +11,11 @@ Ayame Button [http://nakiriayame.moe](https://nakiriayame.moe)
 
 ## 特别鸣谢/特別な感謝/Special Thanks(Bilibili/Twitter ID)
 
-音频剪辑/オーディオクリップ担当: 
+音频剪辑/オーディオクリップ担当: 幽世鬼神的居酒屋 
 
-翻译/翻訳担当：
+翻译/翻訳担当：幽世鬼神的居酒屋
 
-素材建议/リソース提案者：
+项目开发者/開発者：寒いもみじ雪 & Cololi
 
 This project is supported by Voice Button United Studio.
 

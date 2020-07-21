@@ -86,7 +86,7 @@
 }
 .navbar{ 
     box-shadow: 0 2px 4px 1px rgba(0, 0, 0, 0.151);
-    background-color: rgba(0, 0, 0, 0.151);/*顶栏部分*/
+    background-color: #ffd0d09f;/*顶栏部分*/
     margin: 15px;
 }
 .navbar-fixed-top{ 
@@ -106,7 +106,7 @@
     border-top: 0px solid transparent;/*右侧二级菜单顶部边框*/
 }
 .navbar-default .navbar-toggle .icon-bar{ 
-    background: #777777;/*右侧按钮颜色*/
+    background: #ff8c8c;/*右侧按钮颜色*/
 }
 .dropdown-menu{
     width: 63px;
