@@ -179,7 +179,7 @@
           "path": "a-13.aac",
           "description": {
             "zh-CN": "没钱呐",
-            "ja-JP": "余お金わない",
+            "ja-JP": "余お金はない",
             "en-US": ""
           }
         }
@@ -206,8 +206,8 @@
           "name": "a-7",
           "path": "a-7.aac",
           "description": {
-            "zh-CN": "！",
-            "ja-JP": "！",
+            "zh-CN": "装不起零件-！",
+            "ja-JP": "組み立てできないーー！",
             "en-US": ""
           }
         },
@@ -215,8 +215,8 @@
           "name": "a-11",
           "path": "a-11.aac",
           "description": {
-            "zh-CN": "これわなきりから",
-            "ja-JP": "これわなきりから",
+            "zh-CN": "これはなきりから",
+            "ja-JP": "これはなきりから",
             "en-US": ""
           }
         }
