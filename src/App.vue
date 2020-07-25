@@ -44,7 +44,7 @@
         </div>
         <footer class="footer">
             <div class="container-fluid footer-content">
-                <button class="btn-buttom btn-buttom-info"><a href="javascript:location.reload();" style="color: #eeeeee;text-decoration: none">犬 1.0.2 BETA</a></button>
+                <button class="btn-buttom btn-buttom-info"><a href="javascript:location.reload();" style="color: #eeeeee;text-decoration: none">犬 1.0.0</a></button>
                 <div class="pull-left">
                     <div class="text-left" style="color: #fd325a;">{{$t("info.author")}}</div>
                     <div class="text-left">{{$t("info.notOfficial")}}</div>
@@ -174,7 +174,7 @@
 .footer-content {
     padding-top: 10px;
     padding-bottom: 10px;
-    color: #7a7a7a;
+    color: #8f8383;
     font-weight:600;
 }
 .text-right{

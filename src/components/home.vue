@@ -154,11 +154,11 @@
     box-shadow: 0 6px 6px 0px rgba(0, 0, 0, 0.1);
 }
 .btn-body-status{/*播放状态分类标题*/
-    background-color: #585858d8;
+    background-color: #ff9b9bd8;
     border-radius: 150px;
     color: #fff;
     text-align: center;
-    box-shadow: 0 10px 10px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 5px 5px 0px rgba(0, 0, 0, 0.11);
     position: fixed;
     top: 10px;
     font-size: 14px;
