@@ -61,8 +61,16 @@
             "ja-JP": "エンジン",
             "en-US": "Engine"
           }
+        },
+        {
+          "name": "a-24",
+          "path": "a-24.aac",
+          "description": {
+            "zh-CN": "萌萌Q",
+            "ja-JP": "萌え萌えキュン",
+            "en-US": "MMQ"
+          }
         }
-
       ]
     },
     {
@@ -80,6 +88,15 @@
             "zh-CN": "余祝生贺",
             "ja-JP": "お誕生日おめでとうーー",
             "en-US": "Happy birthday--!"
+          }
+        },
+        {
+          "name": "a-19",
+          "path": "a-19.aac",
+          "description": {
+            "zh-CN": "你好百鬼",
+            "ja-JP": "こんなきりー",
+            "en-US": "Hello Nakiri-"
           }
         }
       ]
@@ -108,6 +125,42 @@
             "zh-CN": "噢耶",
             "ja-JP": "お、いええ",
             "en-US": ""
+          }
+        },
+        {
+          "name": "a-20",
+          "path": "a-20.aac",
+          "description": {
+            "zh-CN": "苦呀西1",
+            "ja-JP": "悔しい１",
+            "en-US": "Frustrated 1"
+          }
+        },
+        {
+          "name": "a-21",
+          "path": "a-21.aac",
+          "description": {
+            "zh-CN": "苦呀西2",
+            "ja-JP": "悔しい２",
+            "en-US": "Frustrated 2"
+          }
+        },
+        {
+          "name": "a-22",
+          "path": "a-22.aac",
+          "description": {
+            "zh-CN": "苦呀西3",
+            "ja-JP": "悔しい３",
+            "en-US": "Frustrated 3"
+          }
+        },
+        {
+          "name": "a-23",
+          "path": "a-23.aac",
+          "description": {
+            "zh-CN": "苦呀西4",
+            "ja-JP": "悔しい４",
+            "en-US": "Frustrated 4"
           }
         }
       ]
@@ -218,6 +271,15 @@
             "zh-CN": "这就是狗狗哦~",
             "ja-JP": "これはなきりから",
             "en-US": ""
+          }
+        },
+        {
+          "name": "a-25",
+          "path": "a-25.aac",
+          "description": {
+            "zh-CN": "余不是宅↑",
+            "ja-JP": "よオタクじゃない↑",
+            "en-US": "Not an Otaku"
           }
         }
       ]
