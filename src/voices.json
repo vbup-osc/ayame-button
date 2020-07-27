@@ -63,8 +63,8 @@
           }
         },
         {
-          "name": "mmq-1",
-          "path": "mmq-1.aac",
+          "name": "a-24",
+          "path": "a-24.aac",
           "description": {
             "zh-CN": "萌萌Q",
             "ja-JP": "萌え萌えキュン",
@@ -91,8 +91,8 @@
           }
         },
         {
-          "name": "konnakiri-1",
-          "path": "konnakiri-1.aac",
+          "name": "a-19",
+          "path": "a-19.aac",
           "description": {
             "zh-CN": "你好百鬼",
             "ja-JP": "こんなきりー",
@@ -128,8 +128,8 @@
           }
         },
         {
-          "name": "kuyashii-1",
-          "path": "kuyashii-1.aac",
+          "name": "a-20",
+          "path": "a-20.aac",
           "description": {
             "zh-CN": "苦呀西1",
             "ja-JP": "悔しい１",
@@ -137,8 +137,8 @@
           }
         },
         {
-          "name": "kuyashii-2",
-          "path": "kuyashii-2.aac",
+          "name": "a-21",
+          "path": "a-21.aac",
           "description": {
             "zh-CN": "苦呀西2",
             "ja-JP": "悔しい２",
@@ -146,8 +146,8 @@
           }
         },
         {
-          "name": "kuyashii-3",
-          "path": "kuyashii-3.aac",
+          "name": "a-22",
+          "path": "a-22.aac",
           "description": {
             "zh-CN": "苦呀西3",
             "ja-JP": "悔しい３",
@@ -155,8 +155,8 @@
           }
         },
         {
-          "name": "kuyashii-4",
-          "path": "kuyashii-4.aac",
+          "name": "a-23",
+          "path": "a-23.aac",
           "description": {
             "zh-CN": "苦呀西4",
             "ja-JP": "悔しい４",
@@ -274,8 +274,8 @@
           }
         },
         {
-          "name": "not-an-otaku-1",
-          "path": "not-an-otaku-1.aac",
+          "name": "a-25",
+          "path": "a-25.aac",
           "description": {
             "zh-CN": "余不是宅↑",
             "ja-JP": "よオタクじゃない↑",
