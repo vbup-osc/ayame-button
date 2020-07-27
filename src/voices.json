@@ -61,8 +61,16 @@
             "ja-JP": "エンジン",
             "en-US": "Engine"
           }
+        },
+        {
+          "name": "mmq-1",
+          "path": "mmq-1.aac",
+          "description": {
+            "zh-CN": "萌萌Q",
+            "ja-JP": "萌え萌えキュン",
+            "en-US": "MMQ"
+          }
         }
-
       ]
     },
     {
@@ -80,6 +88,15 @@
             "zh-CN": "余祝生贺",
             "ja-JP": "お誕生日おめでとうーー",
             "en-US": "Happy birthday--!"
+          }
+        },
+        {
+          "name": "konnakiri-1",
+          "path": "konnakiri-1.aac",
+          "description": {
+            "zh-CN": "你好百鬼",
+            "ja-JP": "こんなきりー",
+            "en-US": "Hello Nakiri-"
           }
         }
       ]
@@ -108,6 +125,42 @@
             "zh-CN": "噢耶",
             "ja-JP": "お、いええ",
             "en-US": ""
+          }
+        },
+        {
+          "name": "kuyashii-1",
+          "path": "kuyashii-1.aac",
+          "description": {
+            "zh-CN": "苦呀西1",
+            "ja-JP": "悔しい１",
+            "en-US": "Frustrated 1"
+          }
+        },
+        {
+          "name": "kuyashii-2",
+          "path": "kuyashii-2.aac",
+          "description": {
+            "zh-CN": "苦呀西2",
+            "ja-JP": "悔しい２",
+            "en-US": "Frustrated 2"
+          }
+        },
+        {
+          "name": "kuyashii-3",
+          "path": "kuyashii-3.aac",
+          "description": {
+            "zh-CN": "苦呀西3",
+            "ja-JP": "悔しい３",
+            "en-US": "Frustrated 3"
+          }
+        },
+        {
+          "name": "kuyashii-4",
+          "path": "kuyashii-4.aac",
+          "description": {
+            "zh-CN": "苦呀西4",
+            "ja-JP": "悔しい４",
+            "en-US": "Frustrated 4"
           }
         }
       ]
@@ -218,6 +271,15 @@
             "zh-CN": "这就是狗狗哦~",
             "ja-JP": "これはなきりから",
             "en-US": ""
+          }
+        },
+        {
+          "name": "not-an-otaku-1",
+          "path": "not-an-otaku-1.aac",
+          "description": {
+            "zh-CN": "余不是宅↑",
+            "ja-JP": "よオタクじゃない↑",
+            "en-US": "Not an Otaku"
           }
         }
       ]
