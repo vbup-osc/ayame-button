@@ -5,7 +5,7 @@
       "categoryDescription": {
         "zh-CN": "萌！",
         "ja-JP": "もえ！",
-        "en-US": "moe!"
+        "en-US": "Moe!"
       },
       "voiceList": [
         {
@@ -14,7 +14,7 @@
           "description": {
             "zh-CN": "汪！",
             "ja-JP": "ワン",
-            "en-US": ""
+            "en-US": "Woof"
           }
         },
         {
@@ -23,7 +23,7 @@
           "description": {
             "zh-CN": "狗狗喘气",
             "ja-JP": "息をする",
-            "en-US": ""
+            "en-US": "Breathing"
           }
         },
         {
@@ -32,7 +32,7 @@
           "description": {
             "zh-CN": "光速道歉*6",
             "ja-JP": "ごめん*6",
-            "en-US": ""
+            "en-US": "Sorry! (x6)"
           }
         },
         {
@@ -41,7 +41,7 @@
           "description": {
             "zh-CN": "什……等……什……等等……什么什么（鬼叫）",
             "ja-JP": "なん...ちょ...なん...ちょ...なになに？",
-            "en-US": "what...wait...what...what???"
+            "en-US": "what...wait...what...wait...what???"
           }
         },
         {
@@ -50,7 +50,7 @@
           "description": {
             "zh-CN": "余呼咧呼咧打气",
             "ja-JP": "フレーフレー頑張れーはい！頑張れ頑張れ頑張れ、ファイト！うはははははは、オケー",
-            "en-US": ""
+            "en-US": "Hey! Hey! Do your best! Hai!!! Do it, do it, do it, Fight! Hahahaha okay."
           }
         },
         {
@@ -68,7 +68,7 @@
           "description": {
             "zh-CN": "萌萌Q",
             "ja-JP": "萌え萌えキュン",
-            "en-US": "MMQ"
+            "en-US": "MoeMoeQ"
           }
         }
       ]
@@ -78,7 +78,7 @@
       "categoryDescription": {
         "zh-CN": "通用",
         "ja-JP": "通常",
-        "en-US": "Common"
+        "en-US": "Normal"
       },
       "voiceList": [
         {
@@ -96,7 +96,7 @@
           "description": {
             "zh-CN": "你好百鬼",
             "ja-JP": "こんなきりー",
-            "en-US": "Hello Nakiri-"
+            "en-US": "Kon-Nakiri (hello!)"
           }
         }
       ]
@@ -106,7 +106,7 @@
       "categoryDescription": {
         "zh-CN": "语气",
         "ja-JP": "モーダル",
-        "en-US": ""
+        "en-US": "Modal"
       },
       "voiceList": [
         {
@@ -114,8 +114,8 @@
           "path": "a-9.aac",
           "description": {
             "zh-CN": "清嗓",
-            "ja-JP": "けんけんけん",
-            "en-US": ""
+            "ja-JP": "喉を",
+            "en-US": "Clearing her throat"
           }
         },
         {
@@ -124,7 +124,7 @@
           "description": {
             "zh-CN": "噢耶",
             "ja-JP": "お、いええ",
-            "en-US": ""
+            "en-US": "Oh yea"
           }
         },
         {
@@ -170,7 +170,7 @@
       "categoryDescription": {
         "zh-CN": "叫声",
         "ja-JP": "鳴き声",
-        "en-US": ""
+        "en-US": "Scared Voices"
       },
       "voiceList": [
         {
@@ -179,7 +179,7 @@
           "description": {
             "zh-CN": "笑",
             "ja-JP": "笑",
-            "en-US": ""
+            "en-US": "Nervous laugh"
           }
         },
         {
@@ -197,7 +197,7 @@
           "description": {
             "zh-CN": "嗯↑↓ 嗯→↓",
             "ja-JP": "うんんんーーうんんん～～",
-            "en-US": ""
+            "en-US": "Sounds of fear"
           }
         },
         {
@@ -205,8 +205,8 @@
           "path": "a-16.aac",
           "description": {
             "zh-CN": "啊 吓死我了 啊哈哈哈  哈哈",
-            "ja-JP": "あ〜びっくりした",
-            "en-US": ""
+            "ja-JP": "あ　びっくりした！",
+            "en-US": "Ah! That scared me! "
           }
         },
         {
@@ -215,7 +215,7 @@
           "description": {
             "zh-CN": "啊 桥豆麻袋 纳尼 纳尼",
             "ja-JP": "あ、ちょどまて、なに？なに？あぁ、なに？",
-            "en-US": "a wait what what"
+            "en-US": "AH!!! Wait, what? What?"
           }
         }
       ]
@@ -224,7 +224,8 @@
       "categoryName": "negation",
       "categoryDescription": {
         "zh-CN": "否定",
-        "ja-JP": "否定"
+        "ja-JP": "否定",
+        "en-US": "Negative"
       },
       "voiceList": [
         {
@@ -233,7 +234,7 @@
           "description": {
             "zh-CN": "没钱呐",
             "ja-JP": "余お金はない",
-            "en-US": ""
+            "en-US": "I don't have any money"
           }
         }
       ]
@@ -243,34 +244,34 @@
       "categoryDescription": {
         "zh-CN": "名言",
         "ja-JP": "名言",
-        "en-US": ""
+        "en-US": "Phrases"
       },
       "voiceList": [
         {
-          "name": "a-4",
+           "name": "a-4",
           "path": "a-4.aac",
           "description": {
             "zh-CN": "夸！决斗吧！",
             "ja-JP": "湊！勝負だ！",
-            "en-US": ""
+            "en-US": "Everyone, I challenge you!"
           }
         },
         {
           "name": "a-7",
           "path": "a-7.aac",
           "description": {
-            "zh-CN": "装不起零件-！",
-            "ja-JP": "組み立てできないーー！",
-            "en-US": ""
+            "zh-CN": "！",
+            "ja-JP": "組み立てできない！",
+            "en-US": "I can't get them together!"
           }
         },
         {
           "name": "a-11",
           "path": "a-11.aac",
           "description": {
-            "zh-CN": "这就是狗狗哦~",
-            "ja-JP": "これはなきりから",
-            "en-US": ""
+            "zh-CN": "これはなきりから",
+            "ja-JP": "これはなきりからお願いだ",
+            "en-US": "Do it, for me (Nakiri)"
           }
         },
         {
@@ -279,7 +280,7 @@
           "description": {
             "zh-CN": "余不是宅↑",
             "ja-JP": "よオタクじゃない↑",
-            "en-US": "Not an Otaku"
+            "en-US": "I'm not an otaku↑"
           }
         }
       ]
