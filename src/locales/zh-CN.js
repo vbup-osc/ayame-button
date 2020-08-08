@@ -2,7 +2,7 @@ const zh_CN = {
     info: {
         title: "余按钮",
         info: "信息",
-        author: "余按钮团队 × 幽世鬼神的居酒屋 2020",
+        author: "按钮联合工作室 × 幽世鬼神的居酒屋 2020",
         null: "空",
         subscriber: "当前Youtube订阅数为：",
         audioStaff: "鸣谢名单以及网站相关",
