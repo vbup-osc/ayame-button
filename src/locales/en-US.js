@@ -26,6 +26,7 @@ const en_US = {
         playing: "Now Playing: ",
         noplay: "",
         adtitle: "● Collaborated Projects",
+        weekly: "Fan-made Translations and Illustrations Weekly(In Chinese)",
         plan: "Planned Date: ",
         ing: "Now Streaming:"
     },

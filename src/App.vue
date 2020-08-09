@@ -33,7 +33,7 @@
                             <ul class="dropdown-menu">
                                 <li style="width: 63px;"><a href="javascript:;" style="text-align: center;padding: 5px 0px;width: 63px;" @click="chlang('zh-CN')"><img src="resources/China.jpg" width="25"></a></li>
                                 <li style="width: 63px;"><a href="javascript:;" style="text-align: center;padding: 5px 0px;width: 63px;margin-bottom: 4px;" @click="chlang('ja-JP')"><img src="resources/Japan.png" width="25"></a></li>
-                                <!--<li style="width: 63px;"><a href="javascript:;" style="text-align: center;padding: 5px 0px;width: 63px;margin-bottom: 4px;" @click="chlang('en-US')"><img src="resources/England.jpg" width="25"></a></li>-->
+                                <li style="width: 63px;"><a href="javascript:;" style="text-align: center;padding: 5px 0px;width: 63px;margin-bottom: 4px;" @click="chlang('en-US')"><img src="resources/England.jpg" width="25"></a></li>
                             </ul>
                         </li>
                     </ul>
