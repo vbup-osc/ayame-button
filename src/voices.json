@@ -50,7 +50,7 @@
           "description": {
             "zh-CN": "余呼咧呼咧打气",
             "ja-JP": "フレーフレー頑張れーはい！頑張れ頑張れ頑張れ、ファイト！うはははははは、オケー",
-            "en-US": "Hey! Hey! Do your best! Hai!!! Do it, do it, do it, Fight! Hahahaha okay."
+            "en-US": "Nakiri Cheer"
           }
         },
         {
@@ -260,7 +260,7 @@
           "name": "a-7",
           "path": "a-7.aac",
           "description": {
-            "zh-CN": "！",
+            "zh-CN": "无法组装！",
             "ja-JP": "組み立てできない！",
             "en-US": "I can't get them together!"
           }
