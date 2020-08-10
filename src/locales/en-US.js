@@ -2,7 +2,7 @@ const en_US = {
     info: {
         title: "Ayame Button",
         info: "Info",
-        author: "Voice Button United Studio & Ayame's Tavern 2020",
+        author: "Voice Button United Studio & Nakiri's Izakaya 2020",
         null: "Null",
         subscriber: "Current YouTube Subscribers:",
         audioStaff: "Acknowledgement and Website Info",
