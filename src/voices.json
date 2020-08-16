@@ -293,6 +293,70 @@
           }
         }
       ]
+    },
+    {
+      "categoryName": "minecraft",
+      "categoryDescription": {
+        "zh-CN": "Minecraft",
+        "ja-JP": "Minecraft",
+        "en-US": "Minecraft"
+      },
+      "voiceList": [
+        {
+          "name": "a-27",
+          "path": "a-27.aac",
+          "description": {
+            "zh-CN": "诶，没有斧头了...OH NO...",
+            "ja-JP": "あれ、斧がない...OH NO...",
+            "en-US": "I have no axes...OH NO..."
+          }
+        },
+        {
+          "name": "a-28",
+          "path": "a-28.aac",
+          "description": {
+            "zh-CN": "溺水",
+            "ja-JP": "溺れる",
+            "en-US": "Drowning"
+          }
+        },
+        {
+          "name": "a-29",
+          "path": "a-29.aac",
+          "description": {
+            "zh-CN": "对不起对不起快回来吧",
+            "ja-JP": "ごめんねごめんね帰っておいで",
+            "en-US": "Sorry sorry please be back"
+          }
+        },
+        {
+          "name": "a-30",
+          "path": "a-30.aac",
+          "description": {
+            "zh-CN": "五个钻石！",
+            "ja-JP": "５つのダイヤモンド！",
+            "en-US": "Five diamonds!"
+          }
+        },
+        {
+          "name": "a-31",
+          "path": "a-31.aac",
+          "description": {
+            "zh-CN": "火烧百鬼城",
+            "ja-JP": "燃える百鬼城",
+            "en-US": "Nakiri Castle on fire"
+          }
+        },
+        {
+          "name": "a-32",
+          "path": "a-32.aac",
+          "description": {
+            "zh-CN": "不能笑不能笑哈哈哈哈",
+            "ja-JP": "笑えない笑えないハッハハッハ",
+            "en-US": "I shouldn't laugh here hahahaha"
+          }
+        }
+      ]
     }
   ]
 }
