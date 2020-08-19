@@ -357,6 +357,70 @@
           }
         }
       ]
+    },
+    {
+      "categoryName": "fall-guys",
+      "categoryDescription": {
+        "zh-CN": "糖豆人",
+        "ja-JP": "フォールガイズ",
+        "en-US": "Fall Guys"
+      },
+      "voiceList": [
+        {
+          "name": "a-33",
+          "path": "a-33.aac",
+          "description": {
+            "zh-CN": "余的尾巴还给余",
+            "ja-JP": "よのしっぽかえして",
+            "en-US": "Return my tail"
+          }
+        },
+        {
+          "name": "a-34",
+          "path": "a-34.aac",
+          "description": {
+            "zh-CN": "阿布阿布阿布阿布",
+            "ja-JP": "アッブアッブアッブアッブ",
+            "en-US": "Ah-boo Ah-boo Ah-boo Ah-boo"
+          }
+        },
+        {
+          "name": "a-35",
+          "path": "a-35.aac",
+          "description": {
+            "zh-CN": "NEEEEEEEE 太糟了",
+            "ja-JP": "ねええええ最悪",
+            "en-US": "Neeeeee...too bad"
+          }
+        },
+        {
+          "name": "a-36",
+          "path": "a-36.aac",
+          "description": {
+            "zh-CN": "恶灵退散恶灵退散！啊啊啊啊啊",
+            "ja-JP": "悪霊退散悪霊退散！あああああ",
+            "en-US": "Get away from me, you demons! Ahhhhhhh"
+          }
+        },
+        {
+          "name": "a-37",
+          "path": "a-37.aac",
+          "description": {
+            "zh-CN": "",
+            "ja-JP": "",
+            "en-US": ""
+          }
+        },
+        {
+          "name": "a-38",
+          "path": "a-38.aac",
+          "description": {
+            "zh-CN": "呐不要挡余路让一让...欧拉！",
+            "ja-JP": "ねえ邪魔、どいて　オラ！",
+            "en-US": "Get out of my way...Ora!"
+          }
+        }
+      ]
     }
   ]
 }
