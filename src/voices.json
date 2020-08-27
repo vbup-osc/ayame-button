@@ -326,7 +326,7 @@
           "description": {
             "zh-CN": "对不起对不起快回来吧",
             "ja-JP": "ごめんねごめんね帰っておいで",
-            "en-US": "Sorry sorry please be back"
+            "en-US": "Sorry sorry please come back"
           }
         },
         {
@@ -390,7 +390,7 @@
           "description": {
             "zh-CN": "NEEEEEEEE 太糟了",
             "ja-JP": "ねええええ最悪",
-            "en-US": "Neeeeee...too bad"
+            "en-US": "Neeeeee...that's the worst"
           }
         },
         {
@@ -399,7 +399,7 @@
           "description": {
             "zh-CN": "恶灵退散恶灵退散！啊啊啊啊啊",
             "ja-JP": "悪霊退散悪霊退散！あああああ",
-            "en-US": "Get away from me, you demons! Ahhhhhhh"
+            "en-US": "Begone, demons! Ahhhhhhh"
           }
         },
         {
@@ -407,8 +407,8 @@
           "path": "a-37.aac",
           "description": {
             "zh-CN": "呐！别抢余的尾巴，不要，不要...啊",
-            "ja-JP": "ねぇ！余の尻尾をとないで、嫌だ、嫌だ・・・あ゛ぁ",
-            "en-US": "Hey, don't take my tail away. Don't... dont't... Ahh"
+            "ja-JP": "ねぇ！余の尻尾を取ないで、嫌だ、嫌だ・・・あぁ",
+            "en-US": "Hey, don't take my tail away. Don't... don't... Ahh"
           }
         },
         {
