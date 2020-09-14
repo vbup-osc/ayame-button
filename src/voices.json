@@ -107,7 +107,16 @@
             "ja-JP": "こんなきりー",
             "en-US": "Kon-Nakiri (hello!)"
           }
-        }
+        },
+        {
+            "name": "a-40",
+            "path": "a-40.aac",
+            "description": {
+              "zh-CN": "就是这样的意思",
+              "ja-JP": "そのままの意味よ",
+              "en-US": "That's what I mean"
+            }
+          }
       ]
     },
     {
@@ -226,7 +235,16 @@
             "ja-JP": "あ、ちょどまて、なに？なに？あぁ、なに？",
             "en-US": "AH!!! Wait, what? What?"
           }
-        }
+        },
+        {
+            "name": "a-39",
+            "path": "a-39.aac",
+            "description": {
+              "zh-CN": "快降落*n",
+              "ja-JP": "降りるね　降りる　降りる　降りる　降りよ　降りよ　降りよ",
+              "en-US": "null"
+            }
+          }
       ]
     },
     {
