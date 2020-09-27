@@ -79,6 +79,15 @@
             "ja-JP": "せー！あっ...",
             "en-US": "Ready...ah"
           }
+        },
+        {
+            "name": "a-41",
+            "path": "a-41.aac",
+            "description": {
+                "zh-CN": "啊♡",
+                "ja-JP": "あ♡",
+                "en-US": "A♡"
+            }
         }
       ]
     },
@@ -180,6 +189,24 @@
             "ja-JP": "悔しい４",
             "en-US": "Frustrated 4"
           }
+        },
+        {
+            "name": "李在赣神魔！",
+            "path": "李在赣神魔！.aac",
+            "description": {
+                "zh-CN": "李在赣神魔！",
+                "ja-JP": "なにするんじゃ！",
+                "en-US": "What are you doing?"
+            }
+        },
+        {
+            "name": "你 在 干 什 么.aac",
+            "path": "你 在 干 什 么.aac",
+            "description": {
+                "zh-CN": "你 在 干 什 么",
+                "ja-JP": "なにするんじゃ!",
+                "en-US": "What are u do"
+            }
         }
       ]
     },
