@@ -271,7 +271,16 @@
               "ja-JP": "降りるね　降りる　降りる　降りる　降りよ　降りよ　降りよ",
               "en-US": "I'm getting off (x7)"
             }
-          }
+        },
+        {
+            "name": "やめで　やだ　ごめね.aac",
+            "path": "やめで　やだ　ごめね.aac.aac",
+            "description": {
+              "zh-CN": "やめで　やだ　ごめね.aac",
+              "ja-JP": "やめで　やだ　ごめね.aac",
+              "en-US": ""
+            }
+        }
       ]
     },
     {
