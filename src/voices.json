@@ -88,6 +88,33 @@
                 "ja-JP": "あ♡",
                 "en-US": "A♡"
             }
+        },
+        {
+            "name": "a-43",
+            "path": "a-43.aac",
+            "description": {
+                "zh-CN": "chi*12",
+                "ja-JP": "ち*12",
+                "en-US": "chi*12"
+            }
+        },
+        {
+            "name": "a-45",
+            "path": "a-45.aac",
+            "description": {
+                "zh-CN": "O(∩_∩)O哈哈~哇-----",
+                "ja-JP": "ははは〜はーー",
+                "en-US": "Hahaha -waaa-"
+            }
+        },
+        {
+            "name": "a-46",
+            "path": "a-46.aac",
+            "description": {
+                "zh-CN": "啊-等等-啊-哇💕 哈哈哈",
+                "ja-JP": "あ♡ちょと〜あ〜はー",
+                "en-US": "A♡Wait-a~wa--"
+            }
         }
       ]
     },
