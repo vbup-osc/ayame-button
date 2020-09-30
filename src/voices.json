@@ -200,12 +200,21 @@
             }
         },
         {
-            "name": "你 在 干 什 么.aac",
+            "name": "你 在 干 什 么",
             "path": "你 在 干 什 么.aac",
             "description": {
                 "zh-CN": "你 在 干 什 么",
                 "ja-JP": "なにするんじゃ!",
                 "en-US": "What are u do"
+            }
+        },
+        {
+            "name": "わー",
+            "path": "わー.aac",
+            "description": {
+                "zh-CN": "哇",
+                "ja-JP": "わー",
+                "en-US": "wow"
             }
         }
       ]
@@ -227,6 +236,15 @@
             "en-US": "Nervous laugh"
           }
         },
+        {
+            "name": "a-42",
+            "path": "a-42.aac",
+            "description": {
+              "zh-CN": "笑",
+              "ja-JP": "笑",
+              "en-US": "Nervous laugh"
+            }
+          },
         {
           "name": "a-6",
           "path": "a-6.aac",
