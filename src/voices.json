@@ -115,7 +115,53 @@
                 "ja-JP": "あ♡ちょと〜あ〜はー",
                 "en-US": "A♡Wait-a~wa--"
             }
-        }
+        },
+        {
+            "name": "咿呀咿呀哟",
+            "path": "咿呀咿呀哟.aac",
+            "description": {
+                "zh-CN": "咿呀咿呀哟",
+                "ja-JP": "シューシューシューシュー",
+                "en-US": ""
+            }
+        },
+        {
+            "name": "嗷！",
+            "path": "嗷！.aac",
+            "description": {
+                "zh-CN": "嗷！",
+                "ja-JP": "嗳！",
+                "en-US": ""
+            }
+        },
+        {
+            "name": "笨蛋，变态，无路赛！",
+            "path": "笨蛋，变态，无路赛！.aac",
+            "description": {
+                "zh-CN": "笨蛋，变态，无路赛！",
+                "ja-JP": "バカ、変態、うるさい！",
+                "en-US": ""
+            }
+        },
+        {
+            "name": "yamede",
+            "path": "yamede.aac",
+            "description": {
+                "zh-CN": "雅蠛蝶",
+                "ja-JP": "やめで、撃つでない！",
+                "en-US": ""
+            }
+        },
+        {
+            "name": "yamede1",
+            "path": "yamede1.aac",
+            "description": {
+                "zh-CN": "雅蠛蝶",
+                "ja-JP": "やめて、やめて、あぁぁぁ、危ない、本当にやめてください、あ！",
+                "en-US": ""
+            }
+        },
+        
       ]
     },
     {
@@ -152,7 +198,34 @@
               "ja-JP": "そのままの意味よ",
               "en-US": "That's what I mean"
             }
-          }
+        },
+        {
+            "name": "不要，笨蛋！",
+            "path": "不要，笨蛋！.aac",
+            "description": {
+              "zh-CN": "不要，笨蛋！",
+              "ja-JP": "あ、やめで、バカ",
+              "en-US": "あ、やめで、バカ"
+            }
+        },
+        {
+            "name": "好危险，啊！",
+            "path": "好危险，啊！.aac",
+            "description": {
+              "zh-CN": "好危险，啊！",
+              "ja-JP": "危（あぶ）ねえ、あ～",
+              "en-US": "危（あぶ）ねえ、あ～"
+            }
+        },
+        {
+            "name": "打铁",
+            "path": "打铁.aac",
+            "description": {
+              "zh-CN": "打铁",
+              "ja-JP": "鉄を打つ",
+              "en-US": ""
+            }
+        },
       ]
     },
     {
@@ -243,6 +316,15 @@
                 "ja-JP": "わー",
                 "en-US": "wow"
             }
+        },
+        {
+            "name": "芜湖！",
+            "path": "芜湖！.aac",
+            "description": {
+                "zh-CN": "芜湖！",
+                "ja-JP": "うふー",
+                "en-US": "U Hu!"
+            }
         }
       ]
     },
@@ -271,7 +353,16 @@
               "ja-JP": "笑",
               "en-US": "Nervous laugh"
             }
-          },
+        },
+        {
+            "name": "清楚笑声",
+            "path": "清楚笑声.aac",
+            "description": {
+                "zh-CN": "清楚笑声",
+                "ja-JP": "笑え",
+                "en-US": "hahaha"
+            }
+        },
         {
           "name": "a-6",
           "path": "a-6.aac",
@@ -324,6 +415,24 @@
               "zh-CN": "住手啊 不要再打余啦 对不起！",
               "ja-JP": "やめで　やだ　ごめね",
               "en-US": ""
+            }
+        },
+        {
+            "name": "鸭叫",
+            "path": "鸭叫.aac",
+            "description": {
+              "zh-CN": "鸭叫",
+              "ja-JP": "鴨が鳴く",
+              "en-US": ""
+            }
+        },
+        {
+            "name": "ugya",
+            "path": "ugya.aac",
+            "description": {
+              "zh-CN": "ugya！x3",
+              "ja-JP": "ugya！x3",
+              "en-US": "ugya！x3"
             }
         }
       ]
