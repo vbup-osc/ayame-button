@@ -348,8 +348,8 @@
           "name": "a-5",
           "path": "a-5.aac",
           "description": {
-            "zh-CN": "笑",
-            "ja-JP": "笑",
+            "zh-CN": "笑一",
+            "ja-JP": "笑一",
             "en-US": "Nervous laugh 1"
           }
         },
@@ -357,8 +357,8 @@
           "name": "a-42",
           "path": "a-42.aac",
           "description": {
-            "zh-CN": "笑",
-            "ja-JP": "笑",
+            "zh-CN": "笑二",
+            "ja-JP": "笑二",
             "en-US": "Nervous laugh 2"
           }
         },
@@ -439,7 +439,7 @@
           "path": "ugya.aac",
           "description": {
             "zh-CN": "ugya！x3",
-            "ja-JP": "ugya！x3",
+            "ja-JP": "うぎゃ！x3",
             "en-US": "Ugya！x5"
           }
         }
