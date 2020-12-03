@@ -87,7 +87,7 @@ new Vue({
 }).$mount('#app')
 
 Sentry.init({
-    dsn: "https://aff5452da62b47eeacaf2a38558e04ab@o459631.ingest.sentry.io/5459086",
+    dsn: "https://5a9547be52d24c709a03f1806aedfb98@sentry.neeemooo.com/3",
     integrations: [
       new VueIntegration({
         Vue,
