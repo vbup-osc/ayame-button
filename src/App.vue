@@ -13,11 +13,11 @@
                 </div>
                 
                 <div class="collapse navbar-collapse" id="bs-navbar-collapse">
-                    <ul class="nav navbar-nav" style="margin-bottom:0px;">
+                    <!-- <ul class="nav navbar-nav" style="margin-bottom:0px;">
                         <li><a href="https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg?sub_confirmation=1" target="_blank" style="margin-top:2px"><img src="resources/youtube_social_icon_red.png" height="20"/></a></li>
                         <li><a href="https://twitter.com/nakiriayame" target="_blank"><img src="resources/Twitter_Social_Icon_Circle_Color.png" height="27"/></a></li>
                         <li><a href="https://space.bilibili.com/389858027" target="_blank"><img src="resources/bilibili.png" height="27"/></a></li>
-                    </ul>
+                    </ul> -->
                     <ul class="nav navbar-nav navbar-right" style="margin-top:0px;margin-bottom:0px">
                         <li class="dropdown">
                             <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="resources/download.svg" height="23"/></a>
@@ -45,7 +45,7 @@
         </div>
         <footer class="footer">
             <div class="container-fluid footer-content">
-                <button class="btn-buttom btn-buttom-info"><a href="javascript:location.reload();" style="color: #eeeeee;text-decoration: none">犬 1.0.0</a></button><button class="btn-buttom btn-buttom-info" style="margin-left:5px;"><a href="https://vercel.com?utm_source=oruyanke" style="color: #eeeeee;text-decoration: none"><img src="/resources/vercel.svg" style="height:13px;"></a></button>
+                <button class="btn-buttom btn-buttom-info"><a href="javascript:location.reload();" style="color: #eeeeee;text-decoration: none">犬 1.0.0</a></button><button class="btn-buttom btn-buttom-info" style="margin-left:5px;"><a href="https://www.vercel.com/?utm_source=vbuposc&utm_campaign=oss" style="color: #eeeeee;text-decoration: none"><img src="/resources/vercel.svg" style="height:13px;"></a></button>
                 <div class="pull-left">
                     <div class="text-left" style="color: #fd325a;">{{$t("info.author")}}</div>
                     <div class="text-left">{{$t("info.notOfficial")}}</div>
