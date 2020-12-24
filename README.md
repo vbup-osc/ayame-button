@@ -29,5 +29,5 @@ This project is modified based on the [Aqua button](https://github.com/zyzsdy/aq
 
 ## LICENCE
 
-程序部分： MIT
+程序部分： GPL 3
 
