@@ -16,10 +16,6 @@ import GlobalConst from './globalconst'
 
 import VoiceList from './voices.json'
 
-import * as Sentry from "@sentry/browser";
-import { Vue as VueIntegration } from "@sentry/integrations";
-import { Integrations } from "@sentry/tracing";
-
 //提取标签到语言文件
 let addZh_CN = { voice: {}, voicecategory: {} };
 let addja_JP = { voice: {}, voicecategory: {} };
@@ -86,18 +82,4 @@ new Vue({
   render: h => h(App)
 }).$mount('#app')
 
-Sentry.init({
-    dsn: "https://5a9547be52d24c709a03f1806aedfb98@sentry.neeemooo.com/3",
-    integrations: [
-      new VueIntegration({
-        Vue,
-        tracing: true,
-      }),
-      new Integrations.BrowserTracing(),
-    ],
-  
-    // We recommend adjusting this value in production, or using tracesSampler
-    // for finer control
-    tracesSampleRate: 1.0,
-  });
-  
+
