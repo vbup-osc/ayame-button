@@ -1,6 +1,25 @@
 ﻿{
   "voices": [
     {
+      "categoryName": "negation",
+      "categoryDescription": {
+        "zh-CN": "情人节特供",
+        "ja-JP": "バレンタインデースペシャル",
+        "en-US": "Valentine's Day Special"
+      },
+      "voiceList": [
+        {
+          "name": "我爱你丨我愛你",
+          "path": "我爱你丨我愛你.mp3",
+          "description": {
+            "zh-CN": "我爱你",
+            "ja-JP": "我愛你",
+            "en-US": "I love you"
+          }
+        }
+      ]
+    },
+    {
       "categoryName": "actmoe",
       "categoryDescription": {
         "zh-CN": "萌！",
