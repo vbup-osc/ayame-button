@@ -15,7 +15,6 @@
     "babel": "^6.23.0",
     "bootstrap": "^3.3.7",
     "exiftool": "0.0.3",
-    "fibers": "^4.0.2",
     "hls.js": "^0.13.1",
     "jquery": "^3.4.1",
     "jsencrypt": "^3.0.0-rc.1",
