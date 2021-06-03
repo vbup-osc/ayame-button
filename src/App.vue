@@ -45,12 +45,14 @@
         </div>
         <footer class="footer">
             <div class="container-fluid footer-content">
-                <button class="btn-buttom btn-buttom-info"><a href="javascript:location.reload();" style="color: #eeeeee;text-decoration: none">犬 1.0.0</a></button><button class="btn-buttom btn-buttom-info" style="margin-left:5px;"><a href="https://www.vercel.com/?utm_source=vbuposc&utm_campaign=oss" style="color: #eeeeee;text-decoration: none"><img src="/resources/vercel.svg" style="height:13px;"></a></button>
+                <button class="btn-buttom btn-buttom-info">
+                    <a href="javascript:location.reload();" style="color: #eeeeee;text-decoration: none">犬 1.0.0</a>
+                </button>
                 <div class="pull-left">
                     <div class="text-left" style="color: #fd325a;">{{$t("info.author")}}</div>
                     <div class="text-left">{{$t("info.notOfficial")}}</div>
-                    <div class="text-left"><a href="https://voosc.github.io/ayame-button/" target="_blank">{{$t("info.audioStaff")}}</a></div>
-                    <div class="text-left"><a href="https://github.com/voosc/ayame-button" target="_blank">{{$t("info.toGithub")}}</a></div>
+                    <div class="text-left"><a href="https://github.com/vbup-osc/ayame-button" target="_blank">{{$t("info.audioStaff")}}</a></div>
+                    <div class="text-left"><a href="https://github.com/vbup-osc/ayame-button/issues" target="_blank">{{$t("info.toGithub")}}</a></div>
                 </div>
             </div>
         </footer>
